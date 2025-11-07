@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "marquesafonso", email = "marquesafonso@users.noreply.github.com" }
 ]
-requires-python = ">=3.11"
+requires-python = ">=3.13"
 dependencies = [
     "torch>=2.7.0",
     "torchvision>=0.22.0",
